@@ -43,22 +43,3 @@ Apasionado por crear experiencias digitales que combinan estética y funcionalid
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🧠 Mi stack en código
-
-```javascript
-const francoKaddour = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Bootstrap", "GitHub", "Sass"],
-  goals: ["UX/UI Design", "Clean Architecture", "Accessibility"],
-}
