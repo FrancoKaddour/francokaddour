@@ -1,45 +1,24 @@
-<!-- Banner personalizado -->
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://github.com/FrancoKaddour/FrancoKaddour/assets/147673141/9aff084b-2148-4f4a-baa1-390744fc50af" alt="Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Franco+Kaddour;Frontend+Developer;Apasionado+por+el+Dise%C3%B1o+%26+la+Tecnolog%C3%ADa;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 </p>
 
-<!-- Redes sociales -->
+<!-- Badges dinámicos -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/francokaddour/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://francokaddour.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/francokaddour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=FrancoKaddour&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas"/>
 </p>
 
 ---
 
-## 👋 Hola, soy Franco
+## 🚀 Sobre mí
+```javascript
+const francoKaddour = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Bootstrap", "GitHub", "Sass"],
+  passions: ["UX/UI", "Animaciones Web", "Responsive Design"],
+  currentlyLearning: "React avanzado y UX/UI",
+}
 
-Desarrollador frontend con base en Buenos Aires, Argentina 🇦🇷  
-Apasionado por crear experiencias digitales que combinan estética y funcionalidad.
-
-- 🔭 Actualmente trabajando en proyectos personales que integran React y diseño responsivo.  
-- 🎯 En proceso de aprendizaje de UX/UI para potenciar la experiencia del usuario.  
-- 💡 Me encanta resolver problemas técnicos y experimentar con nuevas tecnologías.  
-- 🧠 Siempre en modo aprendizaje: cada línea de código es una oportunidad de crecer.
-
----
-
-## 🧰 Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-</p>
-
----
