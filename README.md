@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Franco Kaddour
+# 👋 Hello! I'm Franco Kaddour
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=B22222&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Frontend+Specialist;Always+Learning+Something+New!" alt="Typing SVG" />
