@@ -14,14 +14,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrancoKaddour&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
 ## 🚀 About Me
 
 ```javascript
@@ -73,16 +65,19 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoKaddour&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoKaddour&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -97,20 +92,20 @@ const developer = {
 
 ## 🔥 Proyectos Terminados
 
-<div align="center">
-  <table>
+<div align="center" style="width: 100%;">
+  <table style="width: 100%; table-layout: fixed;">
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 20px;">
         <h3>🏠 Espacio Vina | Deco & Home</h3>
-        <img src="https://via.placeholder.com/400x250/61dafb/000000?text=Espacio+Vina" alt="Espacio Vina" width="400" height="250" style="border-radius: 8px;"/>
+        <img src="https://via.placeholder.com/400x250/61dafb/000000?text=Espacio+Vina" alt="Espacio Vina" style="width: 100%; max-width: 450px; height: 250px; border-radius: 8px; object-fit: cover;"/>
         <br><br>
         <a href="https://github.com/FrancoKaddour/espacio-vina" target="_blank">
           <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
         </a>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 20px;">
         <h3>🧁 La Basica ! Pasteleria</h3>
-        <img src="https://via.placeholder.com/400x250/ff6b6b/ffffff?text=La+Basica" alt="La Basica Pasteleria" width="400" height="250" style="border-radius: 8px;"/>
+        <img src="https://via.placeholder.com/400x250/ff6b6b/ffffff?text=La+Basica" alt="La Basica Pasteleria" style="width: 100%; max-width: 450px; height: 250px; border-radius: 8px; object-fit: cover;"/>
         <br><br>
         <a href="https://github.com/FrancoKaddour/la-basica-pasteleria" target="_blank">
           <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
