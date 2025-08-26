@@ -73,19 +73,11 @@ const developer = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoKaddour&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoKaddour&theme=tokyonight"/>
 </div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrancoKaddour&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
