@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Franco Kaddour
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Frontend+Specialist;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=B22222&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Frontend+Specialist;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,6 +10,14 @@
   [![GitHub followers](https://img.shields.io/github/followers/FrancoKaddour?label=Followers&style=social)](https://github.com/FrancoKaddour)
   [![GitHub stars](https://img.shields.io/github/stars/FrancoKaddour?label=Stars&style=social)](https://github.com/FrancoKaddour)
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FrancoKaddour&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
@@ -37,8 +45,6 @@ const developer = {
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
 ### 💻 Languages & Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -61,8 +67,6 @@ const developer = {
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=Anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=Google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=GitHub&logoColor=white)
-
-</div>
 
 ---
 
@@ -91,41 +95,36 @@ const developer = {
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Proyectos Terminados
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-
-### 🚀 Project 1
-<div style="border: 2px solid #61dafb; border-radius: 10px; padding: 20px; margin: 10px; background: #0d1117;">
-  <img src="YOUR_PROJECT_1_IMAGE_URL" alt="Project 1" width="300" height="200" style="border-radius: 8px;"/>
-  <h4>Project Name 1</h4>
-  <p>Brief description of your project here...</p>
-  <a href="YOUR_PROJECT_1_REPO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Repository-61DAFB?style=for-the-badge&logo=GitHub&logoColor=black"/>
-  </a>
-</div>
-
-### 🚀 Project 2
-<div style="border: 2px solid #61dafb; border-radius: 10px; padding: 20px; margin: 10px; background: #0d1117;">
-  <img src="YOUR_PROJECT_2_IMAGE_URL" alt="Project 2" width="300" height="200" style="border-radius: 8px;"/>
-  <h4>Project Name 2</h4>
-  <p>Brief description of your project here...</p>
-  <a href="YOUR_PROJECT_2_REPO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Repository-61DAFB?style=for-the-badge&logo=GitHub&logoColor=black"/>
-  </a>
-</div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🏠 Espacio Vina | Deco & Home</h3>
+        <img src="https://via.placeholder.com/400x250/61dafb/000000?text=Espacio+Vina" alt="Espacio Vina" width="400" height="250" style="border-radius: 8px;"/>
+        <br><br>
+        <a href="https://github.com/FrancoKaddour/espacio-vina" target="_blank">
+          <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🧁 La Basica ! Pasteleria</h3>
+        <img src="https://via.placeholder.com/400x250/ff6b6b/ffffff?text=La+Basica" alt="La Basica Pasteleria" width="400" height="250" style="border-radius: 8px;"/>
+        <br><br>
+        <a href="https://github.com/FrancoKaddour/la-basica-pasteleria" target="_blank">
+          <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrancoKaddour/FrancoKaddour/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrancoKaddour/FrancoKaddour/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FrancoKaddour/FrancoKaddour/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- La animación de la serpiente aparecerá una vez que configures GitHub Actions en tu repositorio -->
 
 ---
 
