@@ -55,7 +55,7 @@ Mi objetivo es unir **estética + rendimiento** para ofrecer experiencias digita
 ## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Demo |
-|----------|-------------|------|
+|:--------:|:-----------:|:----:|
 | **Portfolio Web** | Diseño moderno, responsive y optimizado | [Ver](https://francokaddour.dev) |
 | **E-commerce "Espacio Vina"** | Catálogo interactivo con carrito y filtros | [Ver](https://espaciovina.com/) |
 | **BOT Contributions** | Experimentos con hooks y animaciones | [Ver](PROXIMAMENTE) |
@@ -70,23 +70,6 @@ Mi objetivo es unir **estética + rendimiento** para ofrecer experiencias digita
 
 ---
 
-## 📚 Últimos artículos / aprendizajes
-- [Cómo optimizar animaciones CSS para mejor rendimiento](#)
-- [Guía rápida de React Hooks](#)
-- [Buenas prácticas en diseño responsive](#)
 
----
 
-## 🌐 Conectemos
-<p align="center">
-  <a href="https://www.linkedin.com/in/francokaddour/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
-  <a href="https://francokaddour.dev"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
-</p>
 
----
-
-<!-- Footer animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
-</p>
