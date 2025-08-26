@@ -82,37 +82,25 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrancoKaddour&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
 
 ## 🔥 Completed Projects
-
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td width="50%" style="padding: 0; margin: 0; border: none;">
-      <div style="padding: 20px; text-align: center;">
-        <h3>🏠 Espacio Vina | Deco & Home</h3>
-        <img src="https://via.placeholder.com/400x250/61dafb/000000?text=Espacio+Vina" alt="Espacio Vina" style="width: 100%; height: 250px; border-radius: 8px; object-fit: cover;"/>
-        <br><br>
-        <a href="https://github.com/FrancoKaddour/espacio-vina" target="_blank">
-          <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-        </a>
-      </div>
+    <td style="width: 50%; padding: 20px; text-align: center; vertical-align: top; border: none;">
+      <h3>🏠 Espacio Vina | Deco & Home</h3>
+      <img src="https://via.placeholder.com/400x250/61dafb/000000?text=Espacio+Vina" alt="Espacio Vina" style="width: 100%; max-width: 400px; height: 250px; border-radius: 8px; object-fit: cover;"/>
+      <br><br>
+      <a href="https://github.com/FrancoKaddour/espacio-vina" target="_blank">
+        <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+      </a>
     </td>
-    <td width="50%" style="padding: 0; margin: 0; border: none;">
-      <div style="padding: 20px; text-align: center;">
-        <h3>🧁 La Basica ! Pasteleria</h3>
-        <img src="https://via.placeholder.com/400x250/ff6b6b/ffffff?text=La+Basica" alt="La Basica Pasteleria" style="width: 100%; height: 250px; border-radius: 8px; object-fit: cover;"/>
-        <br><br>
-        <a href="https://github.com/FrancoKaddour/la-basica-pasteleria" target="_blank">
-          <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
-        </a>
-      </div>
+    <td style="width: 50%; padding: 20px; text-align: center; vertical-align: top; border: none;">
+      <h3>🧁 La Basica ! Pasteleria</h3>
+      <img src="https://via.placeholder.com/400x250/ff6b6b/ffffff?text=La+Basica" alt="La Basica Pasteleria" style="width: 100%; max-width: 400px; height: 250px; border-radius: 8px; object-fit: cover;"/>
+      <br><br>
+      <a href="https://github.com/FrancoKaddour/la-basica-pasteleria" target="_blank">
+        <img src="https://img.shields.io/badge/-View%20Repository-8B0000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
