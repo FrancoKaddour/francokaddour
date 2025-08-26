@@ -54,11 +54,16 @@ Mi objetivo es unir **estética + rendimiento** para ofrecer experiencias digita
 
 ## 🚀 Proyectos Destacados
 
+<div align="center">
+
 | Proyecto | Descripción | Demo |
-|:--------:|:-----------:|:----:|
+|----------|-------------|------|
 | **Portfolio Web** | Diseño moderno, responsive y optimizado | [Ver](https://francokaddour.dev) |
 | **E-commerce "Espacio Vina"** | Catálogo interactivo con carrito y filtros | [Ver](https://espaciovina.com/) |
 | **BOT Contributions** | Experimentos con hooks y animaciones | [Ver](PROXIMAMENTE) |
+
+</div>
+
 
 ---
 
