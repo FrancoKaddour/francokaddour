@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Soy **Franco Kaddour**, desarrollador frontend de Buenos Aires, Argentina 🇦🇷.  
 Me apasiona crear interfaces modernas, funcionales y con un diseño que enamore.  
@@ -57,8 +57,8 @@ Mi objetivo es unir **estética + rendimiento** para ofrecer experiencias digita
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
 | **Portfolio Web** | Diseño moderno, responsive y optimizado | [Ver](https://francokaddour.dev) |
-| **E-commerce Demo** | Catálogo interactivo con carrito y filtros | [Ver](https://github.com/FrancoKaddour/ecommerce-demo) |
-| **React Lab** | Experimentos con hooks y animaciones | [Ver](https://github.com/FrancoKaddour/react-lab) |
+| **E-commerce "Espacio Vina"** | Catálogo interactivo con carrito y filtros | [Ver](https://espaciovina.com/) |
+| **BOT Contributions** | Experimentos con hooks y animaciones | [Ver](PROXIMAMENTE) |
 
 ---
 
