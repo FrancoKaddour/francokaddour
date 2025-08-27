@@ -110,18 +110,21 @@ const developer = {
 
 <div align="center">
   
-  <!-- Primera fila: Stats y Streak lado a lado -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_rank=false&show_owner=true&disable_animations=false"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoKaddour&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  <!-- Primera fila: GitHub Stats centrado -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_rank=false&show_owner=true&disable_animations=false"/>
   
 </div>
+
+<br>
 
 <div align="center">
   
   <!-- Segunda fila: Top Languages -->
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   
 </div>
+
+<br>
 
 <div align="center">
   
