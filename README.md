@@ -108,11 +108,11 @@ const developer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px;">
   
-  <!-- Primera fila: Stats y Languages lado a lado 50%-50% -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_rank=false&show_owner=true&disable_animations=false"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <!-- Primera fila: Stats y Languages lado a lado con misma altura -->
+  <img style="width: 49%; height: 195px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_rank=false&show_owner=true&disable_animations=false"/>
+  <img style="width: 49%; height: 195px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400"/>
   
 </div>
 
