@@ -109,16 +109,25 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=1"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoKaddour&theme=tokyonight&cache_bust=1" alt="GitHub Streak Stats"/>
+  
+  <!-- Primera fila: Stats y Streak lado a lado -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_rank=false&show_owner=true&disable_animations=false"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoKaddour&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=1"/>
+  
+  <!-- Segunda fila: Top Languages -->
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=true&custom_title=Franco's%20Contribution%20Graph&area=true&hide_title=false&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
+  
+  <!-- Tercera fila: Contribution Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=false&custom_title=Franco's%20Contribution%20Graph&area=true&hide_title=false&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
+  
 </div>
 
 ---
