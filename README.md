@@ -110,8 +110,9 @@ const developer = {
 
 <div align="center">
   
-  <!-- Primera fila: GitHub Stats centrado -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_rank=false&show_owner=true&disable_animations=false"/>
+  <!-- Primera fila: Stats y Languages lado a lado 50%-50% -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_rank=false&show_owner=true&disable_animations=false"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   
 </div>
 
@@ -119,16 +120,7 @@ const developer = {
 
 <div align="center">
   
-  <!-- Segunda fila: Top Languages -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- Tercera fila: Contribution Graph -->
+  <!-- Segunda fila: Contribution Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=false&custom_title=Franco's%20Contribution%20Graph&area=true&hide_title=false&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
   
 </div>
