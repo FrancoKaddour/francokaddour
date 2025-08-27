@@ -120,8 +120,8 @@ const developer = {
 
 <div align="center">
   
-  <!-- Segunda fila: Contribution Graph con mismo ancho y bordes consistentes -->
-  <img style="width: calc(98% + 10px);" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=false&custom_title=Franco's%20Contribution%20Graph&area=true&hide_title=false&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&border_color=38bdae&border_radius=6" />
+  <!-- Segunda fila: Contribution Graph con ancho ajustado manualmente -->
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=false&custom_title=Franco's%20Contribution%20Graph&area=true&hide_title=false&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
   
 </div>
 
