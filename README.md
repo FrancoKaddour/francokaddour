@@ -66,16 +66,3 @@ const franco = {
 };
 ```
 
-**Desarrollador frontend** enfocado en crear experiencias web fluidas y visualmente atractivas. Mi objetivo es construir aplicaciones que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excepcional.
-
-**Enfoque actual:** Desarrollo de aplicaciones web modernas utilizando React y Next.js, con énfasis en rendimiento, accesibilidad y diseño responsivo.
-
-**Siempre explorando** nuevas tecnologías y metodologías para mejorar la calidad del código y la experiencia del usuario final.
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=FrancoKaddour&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
