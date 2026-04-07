@@ -57,16 +57,3 @@ Entorno de trabajo, lenguajes y librerías que utilizo en el día a día y en mi
 Actualmente mantengo mis repositorios estructurados para reflejar tanto mi progreso profesional como mis trabajos académicos. En mis repositorios encontrarás:
 - 🎓 **Trayecto UTN:** Ejercicios, algoritmos y resoluciones de las materias de la Tecnicatura (como mis recientes avances en manipulación de estructuras).
 - 🚀 **Proyectos Frontend:** Applicaciones modernas demostrando consumo de APIs, estado global, y estilización progresiva (Next.js/React).
-
----
-
-### 📈 Estadísticas de Contribución
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&theme=transparent&hide_border=true&title_color=1572B6&text_color=333333" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1572B6&height=30&section=footer" width="100%"/>
-</div>
