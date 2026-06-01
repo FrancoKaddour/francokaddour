@@ -10,10 +10,14 @@
 
 <br/>
 
-Hola, soy Franco — construyo interfaces que funcionan y se ven bien. Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN.
+<div align="center">
+
+Hola, soy Franco — construyo interfaces que funcionan y se ven bien.  
+Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN.
+
+</div>
 
 ---
-
 ### 🛠 Stack
 
 <div align="center">
