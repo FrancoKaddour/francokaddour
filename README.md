@@ -26,14 +26,6 @@ Hola, soy Franco — construyo interfaces que funcionan y se ven bien. Actualmen
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FrancoKaddour&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=10" />
-</div>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -42,10 +34,15 @@ Hola, soy Franco — construyo interfaces que funcionan y se ven bien. Actualmen
 
 ---
 
-### 🔝 Top Contributed Repos
+### 🏆 GitHub Achievements & Languages
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=FrancoKaddour&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancoKaddour&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrancoKaddour&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrancoKaddour&theme=tokyonight" width="49%"/>
 </div>
 
 <div align="center">
