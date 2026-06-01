@@ -10,7 +10,7 @@
 
 <br/>
 
-Desarrollador Frontend enfocado en construir interfaces limpias, escalables y centradas en la experiencia de usuario. Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN.
+Hola, soy Franco — construyo interfaces que funcionan y se ven bien. Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN.
 
 ---
 
@@ -26,11 +26,26 @@ Desarrollador Frontend enfocado en construir interfaces limpias, escalables y ce
 
 ---
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FrancoKaddour&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=10" />
+</div>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FrancoKaddour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKaddour&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=FrancoKaddour&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🔝 Top Contributed Repos
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=FrancoKaddour&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 <div align="center">
