@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=180&section=header&text=Franco%20Kaddour&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
-<div align="center">
+<div align="center"> 
   <a href="mailto:francokaddour@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/francokaddour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://portfolio-web-franco-kaddour.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
