@@ -37,7 +37,7 @@ Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FrancoKaddour&theme=tokyonight&hide_border= true" />
+  <img src="https://streak-stats.demolab.com/?user=FrancoKaddour&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
