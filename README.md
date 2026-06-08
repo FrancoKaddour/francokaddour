@@ -35,17 +35,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tech |
-|---|---|---|
-| [portfolio-web-franco-kaddour](https://github.com/FrancoKaddour/portfolio-web-franco-kaddour) | Portfolio personal | TypeScript |
-| [analisis-ventas-techstore](https://github.com/FrancoKaddour/analisis-ventas-techstore) | Análisis de ventas con Python | Python |
-| [monitoreo-ambiental](https://github.com/FrancoKaddour/monitoreo-ambiental) | Monitoreo ambiental con scripts | Python |
-| [miga-club](https://github.com/FrancoKaddour/miga-club) | E-commerce de sándwiches de miga | HTML |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
