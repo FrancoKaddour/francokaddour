@@ -1,58 +1,66 @@
-<div align="center">  
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=180&section=header&text=Franco%20Kaddour&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
-</div>
+</div>div>
 
-<div align="center"> 
-  <a href="mailto:francokaddour@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/francokaddour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://portfolio-web-franco-kaddour.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</div>
+<div align="center">
+  <a href="mailto:francokaddour@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>a>
+    <a href="https://www.linkedin.com/in/francokaddour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>a>
+      <a href="https://portfolio-web-franco-kaddour.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>a>
+</div>div>
 
 <br/>
 
-<div align="center">
-
-Hola, soy Franco — construyo interfaces que funcionan y se ven bien.  
-Actualmente cursando la **Tecnicatura Universitaria en Programación** en la UTN.
-
-</div>
-
----
-### 🛠 Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<div align="center">Hola, soy Franco — construyo interfaces que funcionan y se ven bien, y automatizo cosas con Python cuando hace falta. Actualmente cursando la <b>Tecnicatura Universitaria en Programación</b>b> en la UTN.</div>div>
 
 ---
 
-### 📈 GitHub Stats
+## 🛠 Stack
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FrancoKaddour&theme=tokyonight&hide_border=true" />
-</div>
+**Frontend**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Backend / Data / Scripting**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+
+**Tools**
+
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
-### 🏆 GitHub Achievements & Languages
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tech |
+|---|---|---|
+| [portfolio-web-franco-kaddour](https://github.com/FrancoKaddour/portfolio-web-franco-kaddour) | Portfolio personal | TypeScript |
+| [analisis-ventas-techstore](https://github.com/FrancoKaddour/analisis-ventas-techstore) | Análisis de ventas con Python | Python |
+| [monitoreo-ambiental](https://github.com/FrancoKaddour/monitoreo-ambiental) | Monitoreo ambiental con scripts | Python |
+| [miga-club](https://github.com/FrancoKaddour/miga-club) | E-commerce de sándwiches de miga | HTML |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancoKaddour&theme=tokyonight" width="100%"/>
-</div>
+    <img src="https://streak-stats.demolab.com/?user=FrancoKaddour&theme=tokyonight&hide_border=true"/>
+</div>div>
+
+## 🏆 GitHub Achievements & Languages
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrancoKaddour&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrancoKaddour&theme=tokyonight" width="49%"/>
-</div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancoKaddour&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrancoKaddour&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrancoKaddour&theme=tokyonight"/>
+</div>div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=100&section=footer" width="100%"/>
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=100&section=footer" width="100%"/>
+</div>div>
+</b>
