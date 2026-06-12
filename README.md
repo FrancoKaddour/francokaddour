@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/francokaddour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://portfolio-web-franco-kaddour.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
-
+ 
 <br/>
 
 <div align="center">Hola, soy Franco — construyo interfaces que funcionan y se ven bien, y automatizo cosas con Python cuando hace falta. Actualmente cursando la <b>Tecnicatura Universitaria en Programación</b> en la UTN.</div>
