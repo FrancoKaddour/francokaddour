@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=180&section=header&text=Franco%20Kaddour&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/FrancoKaddour/FrancoKaddour/main/header.png" width="100%"/>
 </div>
 
 <div align="center">
