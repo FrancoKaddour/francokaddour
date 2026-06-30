@@ -10,7 +10,8 @@
  
 <br/>
 
-<div align="center">Hola, soy Franco — construyo interfaces que funcionan y se ven bien, y automatizo cosas con Python cuando hace falta.<b> Actualmente cursando la Tecnicatura Universitaria en Programación</b> en la UTN.</div>
+<div align="center">Hola, soy Franco — construyo interfaces que funcionan y se ven bien, y automatizo cosas con Python cuando hace falta.
+  Actualmente cursando la <b> Tecnicatura Universitaria en Programación</b> en la UTN.</div>
 
 ---
 
