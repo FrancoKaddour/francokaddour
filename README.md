@@ -10,7 +10,7 @@
  
 <br/>
 
-<div align="center">Hola, soy Franco — construyo interfaces que funcionan y se ven bien, y automatizo cosas con Python cuando hace falta.
+<div align="center">Desarrollo aplicaciones web con React, TypeScript y Node.js: landings, e-commerces y plataformas a medida. Dos años de experiencia en producción con clientes reales, cubriendo desde la arquitectura del código hasta el diseño e identidad visual.
   Actualmente cursando la <b> Tecnicatura Universitaria en Programación</b> en la UTN.</div>
 
 ---
