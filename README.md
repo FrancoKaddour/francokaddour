@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FrancoKaddour/FrancoKaddour/main/header.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/FrancoKaddour/FrancoKaddour/main/header.png" width="100%" alt="Franco Kaddour — Web Developer"/>
 </div>
 
 <div align="center">
@@ -11,6 +11,10 @@
 <br/>
 
 <div align="center">Frontend engineer building with <b>React, TypeScript and Node.js</b> — two years shipping production apps for real clients, from architecture to UI. Open source contributor to <b>supabase-js</b>, <b>Astro</b>, <b>Storybook</b> and <b>TanStack Router</b>.</div>
+
+<br/>
+
+<div align="center">📍 Buenos Aires, Argentina (UTC-3) · Open to frontend engineering roles — remote or hybrid</div>
 
 ---
 
@@ -27,6 +31,8 @@
 - **storybookjs/storybook** — root-caused and fixed a `TypeError` in the focus instrumentation that broke react-aria's focus handling on Docs pages → [#35528](https://github.com/storybookjs/storybook/pull/35528)
 - **storybookjs/storybook** — JSDoc parser fix: preserve code fences in the component manifest → [#35527](https://github.com/storybookjs/storybook/pull/35527)
 - **TanStack/router** — expose destination location to route lifecycle hooks (feature, 1,100+ tests passing) → [#7817](https://github.com/TanStack/router/pull/7817)
+
+> Every contribution ships with reproduction, root-cause analysis and tests — reviewed and merged in public.
 
 ---
 
@@ -66,9 +72,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FrancoKaddour&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=FrancoKaddour&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoKaddour&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution activity graph"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=100&section=footer" width="100%" alt=""/>
 </div>
