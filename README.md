@@ -23,6 +23,7 @@
 **Merged & shipped**
 
 - **supabase/supabase-js** — Realtime fix (`track()` options forwarding) + tests. Shipped in [v2.110.6](https://github.com/supabase/supabase-js/releases/tag/v2.110.6), credited in the release notes → [#2490](https://github.com/supabase/supabase-js/pull/2490)
+- **supabase/supabase-js** — Functions fix (abort-listener cleanup on `invoke()`). Shipped in [v2.110.8](https://github.com/supabase/supabase-js/releases/tag/v2.110.8), credited in the release notes → [#2487](https://github.com/supabase/supabase-js/pull/2487)
 - **withastro/astro** → [#17270](https://github.com/withastro/astro/pull/17270) · **withastro/starlight** → [#4008](https://github.com/withastro/starlight/pull/4008)
 - **davesnx/styled-ppx** — docs platform migration to Nextra v4 → [#576](https://github.com/davesnx/styled-ppx/pull/576)
 
@@ -30,6 +31,7 @@
 
 - **storybookjs/storybook** — root-caused and fixed a `TypeError` in the focus instrumentation that broke react-aria's focus handling on Docs pages → [#35528](https://github.com/storybookjs/storybook/pull/35528)
 - **storybookjs/storybook** — JSDoc parser fix: preserve code fences in the component manifest → [#35527](https://github.com/storybookjs/storybook/pull/35527)
+- **storybookjs/storybook** — root-caused a race where coverage runs from the dev UI crashed large suites → [#35544](https://github.com/storybookjs/storybook/pull/35544)
 - **TanStack/router** — expose destination location to route lifecycle hooks (feature, 1,100+ tests passing) → [#7817](https://github.com/TanStack/router/pull/7817)
 
 > Every contribution ships with reproduction, root-cause analysis and tests — reviewed and merged in public.
