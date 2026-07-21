@@ -14,8 +14,6 @@
 
 <br/>
 
-<div align="center">📍 Buenos Aires, Argentina (UTC-3) · Open to frontend engineering roles — remote or hybrid</div>
-
 ---
 
 ## 🔓 Open Source
