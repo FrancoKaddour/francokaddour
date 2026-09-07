@@ -32,13 +32,20 @@ PRs to React/TS ecosystem libraries used by millions — several merged by the l
 - **adobe/react-spectrum** — Ethiopic/Coptic calendar conversion fix in `@internationalized/date`. Approved by devongovett (its creator), merged by snowystinger → [#10424](https://github.com/adobe/react-spectrum/pull/10424)
 - **chakra-ui/zag** — Floating Panel: keep the panel stack in sync on close and apply stack order to the positioner. Merged by Segun Adebayo (Chakra UI creator) → [#3246](https://github.com/chakra-ui/zag/pull/3246)
 - **chakra-ui/zag** — Marquee fix: animation duration derived from content size so speed is viewport-independent. Merged by Segun Adebayo → [#3233](https://github.com/chakra-ui/zag/pull/3233)
+- **unocss/unocss** — preset-attributify: prevent the backtick matcher from spanning multiple lines in `elementRE`. Merged by zyyv (UnoCSS core team) → [#5286](https://github.com/unocss/unocss/pull/5286)
 - **storybookjs/storybook** — root-caused and fixed a `TypeError: Illegal invocation` in the 10.5 focus instrumentation that broke react-aria and Fluent UI focus handling → [#35528](https://github.com/storybookjs/storybook/pull/35528)
+- **storybookjs/storybook** — Tanstack React framework: stop `@cloudflare/vite-plugin` from leaking into the inherited Vite config → [#35706](https://github.com/storybookjs/storybook/pull/35706)
 
 **In review**
 
+- **testing-library/jest-dom** — `toHaveFocus`: resolve the active element through shadow roots → [#739](https://github.com/testing-library/jest-dom/pull/739)
+- **radix-ui/primitives** — Slider: stop the bubble input from propagating programmatic value changes to ancestor listeners → [#4100](https://github.com/radix-ui/primitives/pull/4100)
+- **adobe/react-spectrum** — ignore presses retargeted to the document element in dismissable modals → [#10511](https://github.com/adobe/react-spectrum/pull/10511)
+- **remix-run/react-router** — Fix `<StreamTransfer>` permanently dropping the hydration payload when a component above `<Scripts>` suspends → [#15393](https://github.com/remix-run/react-router/pull/15393)
 - **remix-run/react-router** — Fix uncaught exception when canceling streams created by `createReadableStreamFromReadable` → [#15377](https://github.com/remix-run/react-router/pull/15377)
 - **remix-run/react-router** — Wrap dev critical-CSS reset in `React.startTransition` to avoid breaking hydration of streamed Suspense boundaries → [#15382](https://github.com/remix-run/react-router/pull/15382)
-- **TanStack/router** — router-plugin: don't patch foreign routers on first route-module import → [#7937](https://github.com/TanStack/router/pull/7937)
+- **testing-library/dom-testing-library** — support the `<search>` element in role queries → [#1385](https://github.com/testing-library/dom-testing-library/pull/1385)
+- **TanStack/router** — router-core: keep percent-encoded caret in paths to prevent an infinite redirect loop → [#8046](https://github.com/TanStack/router/pull/8046)
 - **TanStack/form** — form-core: support value types with a custom `equals()` method in deep equality → [#2261](https://github.com/TanStack/form/pull/2261)
 
 > Every contribution ships with reproduction, root-cause analysis and tests — reviewed and merged in public.
